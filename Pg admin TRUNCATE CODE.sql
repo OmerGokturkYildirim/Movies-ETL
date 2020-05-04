@@ -1,0 +1,2 @@
+TRUNCATE movies
+TRUNCATE ratings
